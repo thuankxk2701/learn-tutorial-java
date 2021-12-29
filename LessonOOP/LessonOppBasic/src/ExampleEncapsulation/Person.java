@@ -2,6 +2,7 @@ package ExampleEncapsulation;
 
 public class Person {
     private String name;
+    
     private String Cccd;
     public String getCccd(){
         return Cccd;
